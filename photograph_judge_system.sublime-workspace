@@ -1,0 +1,1275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"entr",
+				"entry"
+			],
+			[
+				"udner",
+				"under_the_line"
+			],
+			[
+				"unde",
+				"under_the_line"
+			],
+			[
+				"ran",
+				"rank-split"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"Pho",
+				"Photo"
+			],
+			[
+				"en",
+				"entries"
+			],
+			[
+				"item",
+				"items_20161024"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ra",
+				"rank_str"
+			],
+			[
+				"off",
+				"off_gaus_protein"
+			],
+			[
+				"update",
+				"update_protein_inplace"
+			],
+			[
+				"rando",
+				"random_double2_for_protein"
+			],
+			[
+				"calcu",
+				"calculate_protein_pos"
+			],
+			[
+				"cdil",
+				"CONST_DOUBLE_INDEX_LP2"
+			],
+			[
+				"result_r_file_",
+				"result_r_file_name"
+			],
+			[
+				"result",
+				"result_r_file_path"
+			],
+			[
+				"prote",
+				"protein_pos"
+			],
+			[
+				"cddt",
+				"CONST_DOUBLE_INDEX_DELTA_TAU"
+			],
+			[
+				"cds",
+				"CONST_DOUBLE_INDEX_SIGMA"
+			],
+			[
+				"c_",
+				"c_tmp"
+			],
+			[
+				"cd",
+				"constant_doubles"
+			],
+			[
+				"para",
+				"param_file"
+			],
+			[
+				"const",
+				"constant_ints"
+			],
+			[
+				"inter",
+				"interval_file_path"
+			],
+			[
+				"resul",
+				"result_folder"
+			],
+			[
+				"__",
+				"_constant_doubles"
+			],
+			[
+				"CONST_INT_INDEX_",
+				"CONST_INT_INDEX_NPROTEIN"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"cons",
+				"constant_ints"
+			],
+			[
+				"CA",
+				"CONST_INT_INDEX_A"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"imm",
+				"immobile_i"
+			],
+			[
+				"immo",
+				"immobile_pos"
+			],
+			[
+				"resu",
+				"result_folders"
+			],
+			[
+				"rEs",
+				"RESULT_FOLDER"
+			],
+			[
+				"res",
+				"result_it"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"ro",
+				"room"
+			],
+			[
+				"roo",
+				"rooms"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"alp",
+				"SMALL_ALPHA"
+			],
+			[
+				"user",
+				"user_email"
+			],
+			[
+				"JOIN",
+				"JoinDate"
+			],
+			[
+				"cas",
+				"case_number"
+			],
+			[
+				"pd",
+				"pd_algorithm"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tye",
+				"type"
+			],
+			[
+				"PSHK",
+				"PSHKCON"
+			],
+			[
+				"laz",
+				"lazyLoad"
+			],
+			[
+				"thu",
+				"thumb_n"
+			],
+			[
+				"th",
+				"thumbs"
+			],
+			[
+				"pro",
+				"protein_vec_repul"
+			],
+			[
+				"protein",
+				"protein_vec_repul"
+			],
+			[
+				"pos",
+				"protein_pos"
+			],
+			[
+				"prot",
+				"protein_vec_repul"
+			],
+			[
+				"dou",
+				"double_complex"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"gaus",
+				"gaus_complex"
+			],
+			[
+				"doub",
+				"double_complex"
+			],
+			[
+				"num",
+				"num_threads"
+			],
+			[
+				"progra",
+				"Program"
+			],
+			[
+				"SQLITE3_",
+				"SQLITE3_INTEGER"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"js",
+				"json_file"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"as",
+				"ascii_lowercase"
+			],
+			[
+				"acc",
+				"accumulated"
+			],
+			[
+				"find",
+				"find_loop"
+			],
+			[
+				"node",
+				"node_index"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"ac",
+				"ac_json_file"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"atta",
+				"attachments"
+			],
+			[
+				"att",
+				"attachment"
+			],
+			[
+				"ha",
+				"handles"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"cha",
+				"chats"
+			],
+			[
+				"upda",
+				"update_result"
+			],
+			[
+				"jso",
+				"json_file"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"Jo",
+				"JoinDate"
+			],
+			[
+				"Due",
+				"DueDate"
+			],
+			[
+				"inf",
+				"info"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"alert",
+				"alert_message"
+			],
+			[
+				"aler",
+				"alertMessage"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"us",
+				"user_email"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"un",
+				"unknown_k"
+			],
+			[
+				"ga",
+				"gates"
+			],
+			[
+				"fix",
+				"fixed_line"
+			],
+			[
+				"be",
+				"begin_with_keyword"
+			],
+			[
+				"fixe",
+				"fixed_lines"
+			],
+			[
+				"modu",
+				"modules"
+			],
+			[
+				"PS",
+				"PSHK"
+			],
+			[
+				"regis",
+				"registed_emails"
+			],
+			[
+				"re",
+				"registration"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"dele",
+				"delete_abstract_text"
+			],
+			[
+				"row",
+				"rowid"
+			],
+			[
+				"au",
+				"authors"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"add_a",
+				"add_abstract_text"
+			],
+			[
+				"Author",
+				"Authors"
+			],
+			[
+				"get_ab",
+				"get_abstract_type_with_number"
+			],
+			[
+				"sub",
+				"subtype"
+			],
+			[
+				"su",
+				"sub_str"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"tab",
+				"table\tTag"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"scro",
+				"scrollForOneGrid"
+			],
+			[
+				"firs",
+				"firstElement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "to",
+		"selected_items":
+		[
+			[
+				"to",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"beat",
+				"Javascript Beautify"
+			],
+			[
+				"MARK",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cla",
+				"Clang Format: Format Selection"
+			],
+			[
+				"cl",
+				"Clang Format: Format Selection"
+			],
+			[
+				"c",
+				"Clang Format: Format Selection"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pri",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"sublime.version()",
+			"sublime.version",
+			"sublime",
+			"cppcheck",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Hung/Projects/hall-2/photograph_judge_system"
+	],
+	"file_history":
+	[
+		"/Users/Hung/Downloads/us.sitesucker.mac.sitesucker/144.214.193.143/photography1516/js/independent.js",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/forms.py",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/models.py",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/static/css/view_entries.css",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/urls.py",
+		"/Users/Hung/Dropbox/work/combo-website/main/events/index.php",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/forms",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/admin.py",
+		"/Users/Hung/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system/settings.py",
+		"/Users/Hung/Projects/hall-2/photograph_judge_system/photograph_judge_system.sublime-project",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/analyse.cpp",
+		"/Users/Hung/Downloads/Unknown",
+		"/Users/Hung/Dropbox/work/particle-diffusion/pd.sublime-project",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/06sep_tau_r_100_out/1cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/5-1600-1-a-o/1cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/30cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/500cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/24000cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/2000cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/50cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/draw_cor.m",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/pd_algorithm.cpp",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/run.cpp",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/params.h",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/case2/belowTc_prtn_schem1_h16.f90",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/util.h",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/CUDA/main.cu",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/upload",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/includes.h",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/cuda2cpp.h",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/pd_config.h",
+		"/Users/Hung/Dropbox/work/particle-diffusion/test_group_q.cpp",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/case4/Nov11_09_tqq2_64.f90",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/case4/Nov11_09_tqq1_64.f90",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/case4/Jan28_10_rep_m_c.f90",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/params-4.txt",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/params-3.txt",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/params-2.txt",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/pd_config.cpp",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/run_gpu.cu",
+		"/Users/Hung/Downloads/ike-nl.mobileconfig",
+		"/Users/Hung/Downloads/ike-ca.mobileconfig",
+		"/Volumes/iStat 3.0 MAS [TNT]/Open Gatekeeper friendly",
+		"/Users/Hung/Desktop/license.dash-license",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/params-1.txt",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/4-1600-0.01-a-0ff-repul-off-gaus-protein-o/20cor_eff.out",
+		"/Users/Hung/Library/Containers/com.softwareambience.Unclutter/Data/Library/Application Support/Unclutter/dvtp-service.dat",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/interval-5.txt",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/06sep_tau_r_100_out/90cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/06sep_tau_r_100_out/10cor.out",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/5/06sep_tau_r_100_out/20000cor.out",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/case3/Jan28_10_rep_m_c.f90",
+		"/Users/Hung/Movies/Motion Templates.localized/Titles.localized/Lower Thirds.localized/Clouds copy/Clouds copy.moti",
+		"/Users/Hung/Movies/Motion Templates.localized/Generators.localized/New Category/New Template/New Template.motn",
+		"/Users/Hung/git/xinhong.me/source/pages/index.html",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/makegpu.sh",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/CUDA/compile.sh",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/Makefile",
+		"/Users/Hung/Dropbox/work/particle-diffusion/cuda/run.cu",
+		"/Users/Hung/Desktop/run.cu",
+		"/Users/Hung/Desktop/input.txt",
+		"/Users/Hung/Desktop/filter_low_connect.cpp",
+		"/Users/Hung/Desktop/output.txt",
+		"/Users/Hung/Dropbox/Documents/xinhong_laser/WFS_sensing.m",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/case3/Aug19_10_sqq_64.f90",
+		"/Library/Updates/index.plist",
+		"/Users/Hung/Downloads/onlinevideos.key",
+		"/Users/Hung/Downloads/89df1340-3814-4b91-9dd0-98ef3886364d/89df1340-3814-4b91-9dd0-98ef3886364d.html",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/chapters/usage/account.rst",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/conferences.php",
+		"/Users/Hung/Desktop/door_deco.py",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/pd_algorithm.h",
+		"/Users/Hung/Desktop/pokemon/bundles/CD6A6D3C09FEBEC82839B9009F3C9083",
+		"/Users/Hung/Desktop/pokemon/remote_config_cache/0005368950C91868_ASSET_DIGEST",
+		"/Users/Hung/Desktop/pokemon/remote_config_cache/00000157153CDA4A_GAME_MASTER",
+		"/Users/Hung/Desktop/aims.py",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/interval-2.txt",
+		"/Users/Hung/Downloads/talend_survey/HSBC Prosperity Hall Sports, Media & IT Team Recruitment (Responses) - Form Responses 1.csv",
+		"/Users/Hung/Downloads/talend_survey/split.py",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/maps_qtau.m",
+		"/Users/Hung/Dropbox/Documents/xinhong_combo/ParticleDiffusion/Codes/tqq_plot.m",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/template/layout.html",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/template/public_layout.html",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/js/app.js",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/conference/db.php",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/in/content.php",
+		"/Users/Hung/Documents/play/PokemonGo-Bot/configs/config.json",
+		"/Users/Hung/Desktop/juicebox_gallery/config.xml",
+		"/Users/Hung/Desktop/juicebox_gallery/jbcore/juicebox.js",
+		"/Users/Hung/Desktop/juicebox_gallery/jbcore/full.html",
+		"/Users/Hung/Desktop/juicebox_gallery/index.html",
+		"/Users/Hung/Dropbox/work/particle-diffusion/particle-diffusion/matlab/draw_script.m",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/chapters/installation/index.rst",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/conference/sponsors.php",
+		"/Users/Hung/Downloads/ipad.mobileconfig",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/index.php",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/conference-event.php",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/in/db.php",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/in/SQLs/create_content.sql",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/committee-teams.php",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/in/manage.php",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/index.rst",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/chapters/usage/program-list.rst",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/conf.py",
+		"/Users/Hung/Downloads/ppsideloader-master/script/make_ipa",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/chapters/security/index.rst",
+		"/Users/Hung/Downloads/com.unlimapps.pokegopp_1.3r-144_iphoneos-arm/control",
+		"/Users/Hung/Downloads/ppsideloader-master/PP_SIDELOADER_OPTIONS.plist",
+		"/Users/Hung/Downloads/ppsideloader-master/script/modify_app",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/chapters/installation/untitled.tex",
+		"/Users/Hung/Dropbox/work/combo_manual/chapters/2.tex",
+		"/Users/Hung/Dropbox/work/combo_manual/sphinx/chapters/introduction/index.rst",
+		"/Users/Hung/Dropbox/work/combo_manual/chapters/1.tex",
+		"/Users/Hung/Desktop/Z再要你命 key/deploy/appcast.xml",
+		"/Users/Hung/Desktop/Z再要你命 key/deploy/note-0.5.html",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/tmp/confirm_membership.php",
+		"/Users/Hung/Dropbox/work/pshk_conference/source/pages/in/cmd-query-name.php",
+		"/Users/Hung/Dropbox/work/icsnn2015/source/pages/in/activities.php",
+		"/Users/Hung/Desktop/Z再要你命 key/deploy/note-0.2.html",
+		"/Users/Hung/Desktop/Z再要你命 key/make.sh",
+		"/Users/Hung/Desktop/Z再要你命 key/upload.sh",
+		"/Users/Hung/Desktop/Z再要你命 key/appcast.xml",
+		"/Users/Hung/Desktop/participants.json",
+		"/Users/Hung/Desktop/15july.py",
+		"/Users/Hung/Desktop/PSHK2016Participant-list03June_Version5.csv",
+		"/Users/Hung/Dropbox/BV&ZT/aliceOIS/find-loop/log-10000.txt",
+		"/Users/Hung/Dropbox/BV&ZT/aliceOIS/find-loop/loop.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"story/photos/",
+			"story/thumbs/",
+			"ADMIN",
+			"admin",
+			"rand",
+			"rand_generator",
+			"curand",
+			"initialize",
+			"make_in",
+			"unsigned",
+			"CONST_DOUBLE_INDEX_SMALL_ALPHA",
+			" / ",
+			"rho_r",
+			"ww",
+			"SMALL_ALPHA",
+			"update_protein_inplace",
+			"current_step",
+			"overri",
+			"ww",
+			"rho_r",
+			"immobile",
+			"DEBUG",
+			"corr_kk_simplified",
+			"read_index",
+			"t_group",
+			"write(",
+			"write",
+			"corr_kk_simplified",
+			"read_prtn_positn",
+			"BMBAB",
+			"bmbab",
+			"dt2",
+			"BMBAB",
+			"dx",
+			"DELTA_R",
+			"ALPHA",
+			"alpha",
+			"dis_r0_r",
+			"Velocity_Location_Update",
+			"x_p",
+			"Concentration_Initialization",
+			"initialization_parameters",
+			"rand_generator",
+			"generate_random_double2_for_protein",
+			"update_protein_inplace",
+			"DEBU",
+			"dis_r0_r",
+			"Velocity_Location_Update",
+			"set_double2_zero",
+			"off_gaus_protein",
+			"x_p",
+			"Prot_",
+			"--rp",
+			"calculate_vec_repul",
+			"--rp",
+			"resume_protein_file_path",
+			"initialize",
+			"M_px",
+			"M_PX",
+			"XI",
+			"Velocity_Location_Update",
+			"xrep",
+			"Velocity_Location_Update",
+			"c_s",
+			"dis_r0_r",
+			"distance",
+			"Velocity_Location_Update",
+			"protein",
+			"CONST_DOUBLE_INDEX_LP2",
+			"DELTA_R",
+			"WIDTH_PER_PROTEIN",
+			"generate_random_double2_for_protein",
+			"set_double2_zero",
+			"off_ga",
+			"ONE_OVER_TAU_R",
+			"copy_double_to_double2",
+			"generate_i",
+			"5.2",
+			"5.3",
+			"ww",
+			"ri",
+			"random_double2_for_protein",
+			"calculate_protein_pos",
+			"M_PY",
+			"calculate_delta_c",
+			"scale_gaus_complex",
+			"scale",
+			"scale_gaus_complex",
+			"weight_gaus_complex",
+			"first_output_step",
+			"update_vec_repul",
+			"random_double2_for_protein",
+			"generate_random_gaus_complex_x_for_c",
+			"copy_double_to_double2",
+			"BMBAB",
+			"DELTA_TAU",
+			"REP_COEF",
+			"result_r_file_path",
+			"c_tmp",
+			"concatenate",
+			"concatenate3",
+			"concatenate",
+			"get_real_path",
+			"initialize_const_from_file",
+			"inline namespace",
+			"__constant__",
+			"unsigned int",
+			"FATAL",
+			"LOG",
+			"config.a",
+			"Velocity_Location_Update",
+			"update_vec_repul",
+			"LOG",
+			"protein_vec_repul",
+			"REP_COEF",
+			"protein_vec_repul",
+			");",
+			")",
+			"load_images",
+			"reduction",
+			"dis_r0_r",
+			"distance",
+			"XI",
+			"xi",
+			"update_vec_repul",
+			"protein_vec_repul",
+			"REP_COEF",
+			"rep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://144.214.193.143/photography1516/story/photos/",
+			"http://144.214.193.143/photography1516/story/thumbs/",
+			"namespace",
+			"int",
+			", margin_x, margin_y);",
+			", margin_x, margin_y)",
+			"diff_load_images_area",
+			"$this->_year",
+			"$_year",
+			"\n",
+			"&",
+			"j",
+			"vector",
+			":",
+			"\"",
+			"<strong>Oral Presentations</strong>",
+			"<strong>Invited talks</strong>",
+			"-",
+			"",
+			"prize-fellow",
+			"conference-event",
+			"",
+			"label float-right\"",
+			"invitation_letter",
+			"php",
+			"EmailVerify",
+			"./production",
+			"{{root_path}}/images/",
+			"",
+			"_pshktheme",
+			"_blank",
+			"a target=\"_blank\" href",
+			"\n",
+			"",
+			"Abstract3",
+			"INFO_COL_REQUIRED_ARRAY",
+			"INFO_COL_ARRAY",
+			"linker_class",
+			"CHECK_CUDA",
+			"CHECH_CUDA(cudaDeviceSynchronize();)",
+			"AC_SORTED",
+			"FOR_HALF_ADJ_CELL",
+			"shared_hash",
+			"<u><b>Jun Fan</b></u>",
+			"px",
+			"    ",
+			"                  ",
+			"    ",
+			"QuietSemaphore",
+			"getTimestamp()",
+			"accountName",
+			"path_to_down_blocked",
+			"path_to_left_blocked",
+			"%.12e",
+			"g_v[0].x = 0e0; g_v[0].y = 0e0; g_v[0].z = 0e0;\n    g_v[1].x = 0e0; g_v[1].y = 0e0; g_v[1].z = 0e0;\n    g_v[2].x = 0e0; g_v[2].y = 0e0; g_v[2].z = 0e0;\n    g_v[3].x = 0e0; g_v[3].y = 0e0; g_v[3].z = 0e0;\n    g_v[4].x = 0e0; g_v[4].y = 0e0; g_v[4].z = 0e0;\n    g_v[5].x = 0e0; g_v[5].y = 0e0; g_v[5].z = 0e0;\n    g_v[6].x = 0e0; g_v[6].y = 0e0; g_v[6].z = 0e0;\n    g_v[7].x = 0e0; g_v[7].y = 0e0; g_v[7].z = 0e0;",
+			"g_v[0].x = 0e0; g_v[0].y = 0e0; g_v[0].z = 0e0;\n        g_v[1].x = 0e0; g_v[1].y = 0e0; g_v[1].z = 0e0;\n        g_v[2].x = 0e0; g_v[2].y = 0e0; g_v[2].z = 0e0;\n        g_v[3].x = 0e0; g_v[3].y = 0e0; g_v[3].z = 0e0;\n        g_v[4].x = 0e0; g_v[4].y = 0e0; g_v[4].z = 0e0;\n        g_v[5].x = 0e0; g_v[5].y = 0e0; g_v[5].z = 0e0;\n        g_v[6].x = 0e0; g_v[6].y = 0e0; g_v[6].z = 0e0;\n        g_v[7].x = 0e0; g_v[7].y = 0e0; g_v[7].z = 0e0;",
+			"for (int i = 0; i < 8; ++i) {\n        g_v[i].x = 0e0;\n        g_v[i].y = 0e0;\n        g_v[i].z = 0e0;\n    }",
+			".",
+			"_g",
+			"verified_2factor",
+			"$verified_email",
+			"verified_email",
+			"verified-email",
+			"<h6><u>Transportation</u></h6>",
+			"<legend>Transportation</legend>",
+			"",
+			"Wrong: ",
+			"",
+			"convert_to_type_with_key",
+			"\n",
+			" ",
+			"",
+			" ",
+			"localhost",
+			"HeadPoint",
+			"snakeColors",
+			" ",
+			"[<a class=\"show-item\"></a>]",
+			"-md-",
+			"[ ]",
+			"[+]",
+			"config_struct",
+			"playground_struct",
+			"vector_struct",
+			"cell_struct",
+			"atom_struct",
+			"atom_index_at_block_head",
+			"block_beginning_atom_index",
+			"\"",
+			"req.params.code",
+			".php",
+			"<?php require('../inc_footer.php') ?>",
+			"<?php require('../inc_sidebar.php') ?>",
+			"<?php require('../inc_head.php'); ?>",
+			".php",
+			"..",
+			"<?php echo ROOTPATH ?>",
+			".php",
+			"apex_x_",
+			"cells",
+			"n_cell_x",
+			"n_cell_z",
+			"n_cell_y",
+			"double",
+			"arrival_i, server_i, servers[server_i]",
+			"printf(\"arrival %lu, server %d",
+			"63.27578125",
+			"    ",
+			"\"",
+			"@*initial_process.cpp",
+			"@*potential.cpp",
+			"user_agent",
+			",\n",
+			"<>",
+			"AND",
+			"OR `file_id` = '",
+			"",
+			"velocity",
+			"put_ss",
+			"output_cor",
+			"1o3alp",
+			"3alpha",
+			"AuthApi",
+			"addPost",
+			"newContent",
+			"-",
+			"3alpha_rep_640p",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "photograph_judge_system.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"invit",
+				"icsnn2015/source/pages/invited.html"
+			],
+			[
+				"",
+				"develop_rdct_vct.rst"
+			],
+			[
+				"de",
+				"develop.rst"
+			],
+			[
+				"inde",
+				"index.rst"
+			],
+			[
+				"tttc",
+				"~/Documents/git/multiplayer-tic-tac-toe/servlet/TTTConsole.java"
+			],
+			[
+				"ttts",
+				"~/Documents/git/multiplayer-tic-tac-toe/servlet/TTTServlet.java"
+			],
+			[
+				"groun",
+				"lib/Snake/ground.h"
+			],
+			[
+				"sna",
+				"lib/Snake/snake.h"
+			],
+			[
+				"vec",
+				"lib/Snake/vector.h"
+			],
+			[
+				"grou",
+				"lib/Snake/ground.h"
+			],
+			[
+				"snake",
+				"lib/Snake/snake.cpp"
+			],
+			[
+				"ke",
+				"kernels.h"
+			],
+			[
+				"_s",
+				"source/scss/_settings.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
