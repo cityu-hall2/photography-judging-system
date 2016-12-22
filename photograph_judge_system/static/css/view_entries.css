@@ -1,0 +1,29 @@
+.rank-item {
+    border: 1px solid grey;
+    overflow: hidden;
+}
+
+.rank-image {
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-bottom: 100px;
+    background-size: cover;
+}
+
+.rank-split {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.sortable > div { /* including rank-item and sortable-placeholder */
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+.sortable-placeholder {
+    border: 1px dashed grey;
+}

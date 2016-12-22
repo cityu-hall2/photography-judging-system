@@ -3,161 +3,8 @@
 {% block header %}View Entries{% endblock %}
 {% block title %}Judging System - View Entries{% endblock %}
 {% block head_extra %}
-    <link rel="stylesheet" href="{% static 'PhotoSwipe/photoswipe.css' %}">
-    <link rel="stylesheet" href="{% static 'PhotoSwipe/default-skin/default-skin.css' %}">
-    <style type="text/css">
-        .rank-item {
-            border: 1px solid grey;
-            overflow: hidden;
-        }
-
-        .rank-image {
-            float: left;
-            width: 30px;
-            height: 30px;
-            margin-left: 5px;
-            margin-bottom: 100px;
-            background-size: cover;
-        }
-
-        .rank-split {
-            text-align: center;
-            text-decoration: underline;
-        }
-
-        .sortable > div { /* including rank-item and sortable-placeholder */
-            height: 40px;
-            margin-top: 20px;
-            margin-bottom: 20px;
-            padding: 5px;
-        }
-
-        .sortable-placeholder {
-            border: 1px dashed grey;
-        }
-    </style>
-{% endblock %}
-
-{% block foot_extra %}
-    <!-- following codes are from http://photoswipe.com/documentation/getting-started.html -->
-    <!-- Root element of PhotoSwipe. Must have class pswp. -->
-    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-
-        <!-- Background of PhotoSwipe. 
-             It's a separate element, as animating opacity is faster than rgba(). -->
-        <div class="pswp__bg"></div>
-
-        <!-- Slides wrapper with overflow:hidden. -->
-        <div class="pswp__scroll-wrap">
-
-            <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
-            <div class="pswp__container">
-                <!-- don't modify these 3 pswp__item elements, data is added later on -->
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-            </div>
-
-            <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-            <div class="pswp__ui pswp__ui--hidden">
-
-                <div class="pswp__top-bar">
-
-                    <!--  Controls are self-explanatory. Order can be changed. -->
-
-                    <div class="pswp__counter"></div>
-
-                    <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-
-                    <button class="pswp__button pswp__button--share" title="Share"></button>
-
-                    <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-
-                    <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-
-                    <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
-                    <!-- element will get class pswp__preloader--active when preloader is running -->
-                    <div class="pswp__preloader">
-                        <div class="pswp__preloader__icn">
-                          <div class="pswp__preloader__cut">
-                            <div class="pswp__preloader__donut"></div>
-                          </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                    <div class="pswp__share-tooltip"></div> 
-                </div>
-
-                <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-                </button>
-
-                <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-                </button>
-
-                <div class="pswp__caption">
-                    <div class="pswp__caption__center"></div>
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-    <script src="{% static 'PhotoSwipe/photoswipe.min.js' %}"></script>
-    <script src="{% static 'PhotoSwipe/photoswipe-ui-default.min.js' %}"></script>
-    <script src="{% static 'html5sortable/jquery.sortable.min.js' %}"></script>
-    <script type="text/javascript">
-        $(function() {
-            function initial_rank() {
-                var list = $('.sortable')[0];
-                var items = list.childNodes;
-                var itemsArr = [];
-                for (var i in items) {
-                    if (items[i].nodeType == 1) {
-                        itemsArr.push(items[i]);
-                    }
-                }
-
-                itemsArr.sort(function(a, b) {
-                  return parseInt(a.getAttribute('data-rank')) == parseInt(b.getAttribute('data-rank'))
-                          ? 0
-                          : (parseInt(a.getAttribute('data-rank')) > parseInt(b.getAttribute('data-rank'))? 1 : -1);
-                });
-
-                for (i = 0; i < itemsArr.length; ++i) {
-                  list.appendChild(itemsArr[i]);
-                }
-            }
-            function update_ranks() {
-                var list = $('.sortable')[0];
-                var items = list.childNodes;
-                var under_the_line = false;
-                var index = 0;
-                for (var i = 0; i < items.length; ++i) {
-                    if (items[i].nodeType == 1) {
-                        if ($(items[i]).hasClass('rank-split')) {
-                            under_the_line = true;
-                        } else {
-                            if (under_the_line) {
-                                $(items[i]).css('background-color', 'grey');
-                                $('#rank-form > input[name=' + $(items[i]).attr('data-id') + ']').val(10000);
-                            } else {
-                                $(items[i]).css('background-color', 'transparent');
-                                $('#rank-form > input[name=' + $(items[i]).attr('data-id') + ']').val(index);
-                            }
-                        }
-                        index++;
-                    }
-                }
-            }
-            initial_rank();
-            update_ranks();
-            $('.sortable').sortable().bind('sortupdate', function() {
-                update_ranks();
-            });
-        });
-    </script>
+    <link rel="stylesheet" href="{% static 'Magnific-Popup/magnific-popup.css' %}">
+    <link rel="stylesheet" href="{% static 'css/view_entries.css' %}">
 {% endblock %}
 
 {% block content %}
@@ -193,10 +40,12 @@
         <div style="margin-top: 5px">
             <legend>{{ entry.title }}</legend>
             <hr />
-            <div class="row">
+            <div class="row gallery">
                 {% for photo in entry.photos %}
                 <div class="medium-3 columns end">
-                    <img class="thumbnail" src="{{ photo.thumbnail_url }}" />
+                    <a href="{{ photo.full_size_url }}">
+                        <img class="thumbnail" src="{{ photo.thumbnail_url }}" />
+                    </a>
                 </div>
                 {% endfor %}
             </div>
@@ -204,5 +53,11 @@
         {% endfor %}
     </div>
 </div>
+{% endblock %}
+
+{% block foot_extra %}
+    <script src="{% static 'Magnific-Popup/jquery.magnific-popup.min.js' %}"></script>
+    <script src="{% static 'html5sortable/jquery.sortable.min.js' %}"></script>
+    <script src="{% static 'js/view_entries.js' %}"></script>
 {% endblock %}
 
