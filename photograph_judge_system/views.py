@@ -49,6 +49,8 @@ def index(request):
         return render(request, 'login.html', {'form': form})
 
 def view_entries(request):
+    if 'judge' not in request.session:
+        return redirect('index')
     judge = Judge.objects.get(id=request.session['judge'])
     entries = get_entries_dict(judge)
     return render(request, 'view_entries.html', {
@@ -63,6 +65,8 @@ def logout(request):
     return redirect('index')
 
 def save(request):
+    if 'judge' not in request.session:
+        return redirect('index')
     if request.method == 'POST':
         judge = Judge.objects.get(id=request.session['judge'])
         for entry in Entry.objects.filter(judge=judge):
