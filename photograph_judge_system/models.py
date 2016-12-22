@@ -25,15 +25,15 @@ class Entry(models.Model):
         Judge,
         on_delete=models.CASCADE
         )
-    titie = models.CharField(max_length=100)
+    title = models.CharField(max_length=100)
     internal_identifier = models.CharField(max_length=100, default='-')
-    rank = models.IntegerField(default=0)
+    rank = models.IntegerField(default=10000)
 
     def __str__(self):
         rank_str = 'unranked'
-        if self.rank > 0:
+        if self.rank < 10000:
             rank_str = 'ranked %d' % self.rank
-        return '[%s] Entry: %s (%s)' % (rank_str, self.titie, self.internal_identifier)
+        return '[%s] Entry: %s (%s)' % (rank_str, self.title, self.internal_identifier)
 
 class Photo(models.Model):
     entry = models.ForeignKey(

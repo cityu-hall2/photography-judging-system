@@ -1,0 +1,57 @@
+{% extends "base.html" %}{% load static %}
+
+{% block header %}View Result{% endblock %}
+{% block title %}Judging System - Result{% endblock %}
+{% block head_extra %}
+    <style type="text/css">
+        .rank-item {
+            border: 1px solid grey;
+            overflow: hidden;
+        }
+
+        .rank-image {
+            float: left;
+            width: 30px;
+            height: 30px;
+            margin-left: 5px;
+            margin-bottom: 100px;
+            background-size: cover;
+        }
+
+        .rank-split {
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        .rank-item { /* including rank-item and sortable-placeholder */
+            height: 40px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            padding: 5px;
+        }
+
+        .sortable-placeholder {
+            border: 1px dashed grey;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+<p class="lead">
+    Your judgement has been saved. <a href="{% url 'view_entries' %}">go back</a>
+</p>
+{% for entry in entries %}
+<div class="rank-item" data-id='{{ entry.id }}' data-rank='{{ entry.rank }}'>
+    <strong style="float: left;">
+    {% if entry.rank < 9999 %}
+    {{ entry.rank|add:1 }}
+    {% else %}
+    Not ranked yet
+    {% endif %}- {{ entry.title }}</strong>
+    {% for photo in entry.photos %}
+    <div class="rank-image" style="background-image: url('{{ photo.thumbnail_url }}'); "></div>
+    {% endfor %}
+</div>
+{% endfor %}
+{% endblock %}
+

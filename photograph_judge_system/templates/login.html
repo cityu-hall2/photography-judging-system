@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block header %}Judging System - Login{% endblock %}
+{% block title %}Judging System - Login{% endblock %}
+
+{% block content %}
+<h3>Welcome to CityU Student Residence Photography Competition Judging System</h3>
+<h6>You need to login to continue</h6>
+<hr />
+<div class="text-center">
+    <p>
+        The email and password was sent to you by email.
+    </p>
+</div>
+{% if error_message %}
+<div class="callout secondary">
+    <p>{{error_message}}</p>
+</div>
+{% endif %}
+<form action="#" method="POST">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit" />
+</form>
+{% endblock %}
